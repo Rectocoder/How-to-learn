@@ -1,0 +1,8 @@
+.khan__book-pick {
+    min-width: 620px;
+    min-height: 608px; 
+    z-index: 1;
+    margin: 0 48px 0 0;
+    object-fit: cover;
+    box-sizing: border-box;
+   }

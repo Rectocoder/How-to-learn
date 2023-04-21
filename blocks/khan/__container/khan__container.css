@@ -1,0 +1,11 @@
+
+    .khan__container {
+        display: flex;
+        flex-flow: column nowrap;
+        width: 80%;
+        margin: 0 auto;
+        align-items: flex-start;
+        z-index: 2;
+      }
+
+    

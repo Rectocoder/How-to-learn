@@ -1,0 +1,19 @@
+.feynman__link {
+  position: absolute;
+  right: 48px;
+  top: 50%;
+  text-decoration: none;
+  line-height: 51px;
+  font-size: 36px;
+  z-index: 2;
+  transition: opacity 1s;
+  
+}
+
+.feynman__link:visited {
+  color:blueviolet;
+}
+
+.feynman__link:hover {
+  opacity: 0.5;
+}

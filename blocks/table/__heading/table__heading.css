@@ -1,0 +1,9 @@
+.table__heading {
+  position: relative;
+  display: block;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+  z-index: 2;
+}

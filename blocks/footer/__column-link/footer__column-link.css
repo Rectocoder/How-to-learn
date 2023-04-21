@@ -1,0 +1,20 @@
+.footer__column-link {
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    text-decoration: none;
+    color:white;
+    text-align: start;
+    align-self: flex-start;
+    transition: opacity 1s;
+  } 
+
+  .footer__column-link:visited {
+
+    color:rgb(225, 118, 235);
+  }
+  
+  
+  .footer__column-link:hover {
+    opacity: 0.5;
+  }
