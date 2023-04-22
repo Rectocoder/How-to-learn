@@ -1,8 +1,7 @@
 .table__text {
     position: relative;
-    display: inline-block;
-    margin: 0;
-    margin-top: 20px;
+    display: block;
+    margin: 20px 0 0;
     font-size: 18px;
     line-height: 1.2;
     font-weight: normal;
